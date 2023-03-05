@@ -429,5 +429,6 @@ obj-y += sdm660_cdc/
 obj-y += msm_sdw/
 
 obj-y += tfa98xx/
+obj-y += tfa98xx-v6/
 obj-y += max989xx/
 
